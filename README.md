@@ -7,7 +7,7 @@ Autores:Cristian Vladimir Orduz Carvajal 2211877, Jhon Jairo Almanzar Quintero 2
 
 El objetivo de este trabajo es abordar los desafíos del sector agropecuario, como la optimización de cultivos y la predicción de rendimientos, mediante el uso de modelos de inteligencia artificial. Se implementarán DecisionTreeClassifier, RandomForestClassifier y SVC para clasificar datos agropecuarios, así como aprendizaje no supervisado... para obtener mas información.
 
-Dataset: [#LINK DEL DATASET](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge/about_data)
+Dataset: https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge/about_data
 
 Modelos: DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, Redes neuronales.
 
