@@ -12,7 +12,7 @@ Dataset: #LINK DEL DATASET
 Modelos: DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, Redes neuronales.
 
 Enlaces [
-Video:
-Codigo:
+Video: https://youtu.be/yjGace4Ad1Q
+Codigo: https://colab.research.google.com/drive/1g2AV3_2Uu-1PZvxqTkRXOs9-OwiZDxEb?authuser=1#scrollTo=1BTSRlK_k91y&uniqifier=1
 Repositorio:
 ]
